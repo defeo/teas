@@ -10,3 +10,16 @@ Ao Hojicha Hida no Homaré:
   infusion: 0.5min
   shops:
     - http://www.jugetsudo.fr/sachet-aluminium-de-70g.html
+
+Sencha Uji:
+  type: Sencha
+  provenance: Japan, Kyoto prefecture, Uji region
+  tasting: >-
+    Classic Sencha from Uji province. Anise yellow liquor with astringent taste.
+    Straight and lengthy taste, no sweetness, bitter ending increasing along infusions. 
+    Can accompany fruit tarts and cakes. Good for 2-3 infusions. 
+  rating: 3/5
+  temperature: 70°-75°
+  infusion: 1.5-2min
+  shops:
+    - http://www.lupiciausa.com/product_p/12407434.htm
