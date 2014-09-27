@@ -21,5 +21,6 @@ Sencha Uji:
   rating: 3/5
   temperature: 70°-75°
   infusion: 1.5-2min
+  quantity: 25g/L
   shops:
     - http://www.lupiciausa.com/product_p/12407434.htm

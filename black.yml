@@ -1,0 +1,13 @@
+Ise shade-grown black tea:
+  type: Japanese black tea
+  provenance: Japan, Mie prefecture, Ise region
+  tasting: >-
+    Thin leaves with chocolate scent. Pale red liquor, toasty aroma, no astringency.
+    Similar to a mildly toasted hoji-cha. Good for 3 infusions.
+    WARNING: takes a strong bitter-toasty flavour when overinfused.
+  rating: 2/5
+  temperature: 85°
+  infusion: 2min
+  quantity: 20g/L
+  shops:
+    - http://www.lupicia.fr/
