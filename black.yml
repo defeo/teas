@@ -3,7 +3,7 @@ Ise shade-grown black tea:
   provenance: Japan, Mie prefecture, Ise region
   tasting: >-
     Thin leaves with chocolate scent. Pale red liquor, toasty aroma, no astringency.
-    Similar to a mildly toasted hoji-cha. Good for 3 infusions.
+    Similar to a mildly toasted hoji-cha. Good for 2 infusions.
     WARNING: takes a strong bitter-toasty flavour when overinfused.
   rating: 2/5
   temperature: 85°
@@ -11,3 +11,29 @@ Ise shade-grown black tea:
   quantity: 20g/L
   shops:
     - http://www.lupicia.fr/
+
+Kumamoto:
+  type: Japanese black tea
+  provenance: Japan, Kumamoto prefecture
+  tasting: >-
+    Chocolate and flowers scent, veers to tobacco after infusion. Red liquor, 
+    with mild woody taste. No astringency. Good for 2 infusions.
+  rating: 2/5
+  temperature: 85°
+  infusion: 2-3min
+  quantity: 20g/L
+  shops:
+    - http://www.lupicia.fr/
+
+Su Hong:
+  type: Chinese black tea
+  provenance: China
+  tasting: >-
+    Strong cacao scent. Dark liquor, intense aroma with woody taste (liquorish),
+    can be unpleasent if oversteeped. Good for 2-3 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 3-5min
+  quantity: 25g/L
+  shops:
+    - http://www.maisondestroisthes.com/
