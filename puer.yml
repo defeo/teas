@@ -10,3 +10,15 @@ Lupicia Honk-Kong Puer:
   quantity: 33g/L
   shops:
     - http://www.lupiciausa.com/product_p/12405031.htm
+
+Puer Impérial Palais des thés:
+  type: Puer
+  provenance: China
+  tasting: >-
+    Classic puer. Leaves smell spring flowers. Dark/caramel liquor,
+    smokey/sous-bois notes. Good for 2-3 infusions.
+  temperature: 95°
+  infusion: 3-4min
+  quantity: 20g/L
+  shops:
+    - http://www.palaisdesthes.com/fr/pu-erh-imperial-174.html
