@@ -37,3 +37,16 @@ Su Hong:
   quantity: 25g/L
   shops:
     - http://www.maisondestroisthes.com/
+
+Harrods English Breakfast:
+  type: Blended, English breakfast
+  provenance: India, Sri Lanka, Kenya
+  tasting: >-
+    Blend of Kenya red, Assam, Darjeeling and Ceylon teas. Orange liquor, very
+    balanced, full body, with citrus aroma. Good for 2 infusions.
+  rating: 4/5
+  temperature: 95°
+  infusion: 3-5min
+  quantity: 20g/L
+  shops:
+    - http://www.harrods.com/product/no-14-english-breakfast-loose-leaf-tea-125g/harrods/000000000001861739
