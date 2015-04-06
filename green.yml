@@ -38,3 +38,17 @@ Gyokuro Karigane:
   shops:
     - http://www.jugetsudo.fr/gyokuro-karigane-boite-metal-50g.html
     - http://www.jugetsudo.fr/gyokuro-karigane-sachet-alluminium-50g.html
+
+Sencha Nara:
+  type: Sencha
+  provenance: Japan, Nara prefecture, Nara region
+  tasting: >-
+    Pale to deep green liquor, depending on infusion time. Mellow grassy
+    taste, faint bitter notes, no sweetness, refreshing. Good for 2-3
+    infusions.
+  rating: 4/5
+  temperature: 85°-90°
+  infusion: 1-1.5min
+  quantity: 30g/L
+  shops:
+    - Lupicia
