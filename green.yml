@@ -52,3 +52,16 @@ Sencha Nara:
   quantity: 30g/L
   shops:
     - Lupicia
+    
+Sencha Kamo:
+  type: Sencha and Macha blend
+  provenance: Japan, Kyoto Prefecture and Aichi Prefecture
+  tasting: >-
+    Emerald green liquor. Straight grassy taste, quite bitter, no sweetness,
+    very refreshing. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 85°-90°
+  infusion: 1-1.5min
+  quantity: 26g/L
+  shops:
+    - http://www.lupicia.fr/s/29786_178106_the-vert-japonais-sencha-kamo
