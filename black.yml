@@ -50,3 +50,17 @@ Harrods English Breakfast:
   quantity: 20g/L
   shops:
     - http://www.harrods.com/product/no-14-english-breakfast-loose-leaf-tea-125g/harrods/000000000001861739
+
+Lupicia Darjeeling second flush:
+  type: Darjeeling, second flush, blended
+  provenance: India
+  tasting: >-
+    Classic summer harvest Darjeeling. Pale red liquor, fruity, absolutely
+    no bitterness. Good for 2 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 3-5min
+  quantity: 20g/L
+  shops:
+    - http://www.lupicia.fr/s/29785_178072_the-noir-inde-darjeeling-the-second-flush
+    
