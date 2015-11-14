@@ -55,12 +55,25 @@ Lupicia Darjeeling second flush:
   type: Darjeeling, second flush, blended
   provenance: India
   tasting: >-
-    Classic summer harvest Darjeeling. Pale red liquor, fruity, absolutely
-    no bitterness. Good for 2 infusions.
+    Classic summer harvest Darjeeling. Pale red liquor, fruity,
+    very low bitterness. Good for 2-3 infusions.
   rating: 3/5
   temperature: 95°
   infusion: 3-5min
   quantity: 20g/L
   shops:
     - http://www.lupicia.fr/s/29785_178072_the-noir-inde-darjeeling-the-second-flush
-    
+
+Snowview FTGFOP1 2015-DJ5:
+  type: Darjeeling, First flush
+  provenance: India
+  tasting: >-
+    Good quality first flush darjeeling. Pale red liquor. Fresh and mellow taste,
+    faint bitterness. Good for 2-3 infusions. Worth the price?
+  rating: 3/5
+  temperature: 90°
+  infusion: 2-3.5min
+  quantity: 20g/L
+  shops:
+    - http://www.lupicia.fr/s/33862_224731_the-noir-grand-cru-risheehat-white-lily
+    - http://en.lupicia.fr/s/33862_224731_snowview-ftgfop1

@@ -65,3 +65,17 @@ Sencha Kamo:
   quantity: 26g/L
   shops:
     - http://www.lupicia.fr/s/29786_178106_the-vert-japonais-sencha-kamo
+
+Sencha Tsuki:
+  type: Sencha
+  provenance: Japan
+  tasting: >-
+    Deep green liquor. Mellow grassy taste, opulent, little bitterness.
+    Good for 3 infusions.
+  rating: 4/5
+  temperature: 80°
+  infusion: 1min
+  quantity: 26g/L
+  shops:
+    - http://www.jugetsudo.fr/the-vert-sencha-tsuki-sachet-aluminium-tb-2g-15.html
+    
