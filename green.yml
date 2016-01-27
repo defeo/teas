@@ -78,4 +78,18 @@ Sencha Tsuki:
   quantity: 26g/L
   shops:
     - http://www.jugetsudo.fr/the-vert-sencha-tsuki-sachet-aluminium-tb-2g-15.html
-    
+
+Mao Jian:
+  type: Mao Jian
+  provenance: China, Henan, Xinyang,
+  tasting: >-
+    Spring flush. Pale yellow liquor. Very rich green tea, with milky
+    notes and a refreshing flavour. No bitterness. Good for many
+    infusions.
+  rating: 5/5
+  temperature: 60°-70°
+  infusion: 0.5-1min
+  quantity: 20g/L
+  shops:
+    - http://www.espritduthe.com/
+    - http://www.espritduthe.com/the-vert/355-mao-jian-extra.html
