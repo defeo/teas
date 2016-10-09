@@ -93,3 +93,18 @@ Mao Jian:
   shops:
     - http://www.espritduthe.com/
     - http://www.espritduthe.com/the-vert/355-mao-jian-extra.html
+
+Kamairicha Sensei Korogi:
+  type: Kamairicha
+  provenance: Japan, Miyazaki prefecture
+  tasting: >-
+    Mildly roasted spring green tea, kama-iri method, by sensei Yoichi
+    Korogi.  Pale green liquor, fresh taste, mildly grassy and
+    bitter. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 85°-90°
+  infusion: 1-1.5min
+  quantity: 30g/L
+  shops:
+    - http://www.lupicia.fr/s/35964_226118_the-vert-primeur-2016-kama-iri-cha-kogase-japon
+
