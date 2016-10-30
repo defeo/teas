@@ -108,3 +108,13 @@ Kamairicha Sensei Korogi:
   shops:
     - http://www.lupicia.fr/s/35964_226118_the-vert-primeur-2016-kama-iri-cha-kogase-japon
 
+Hoji-cha Atago:
+  type: Hojicha, Roasted green tea
+  provenance: Japan
+  tasting: >-
+    Classic hoji-cha, roasted notes, red liquor. Good for 1-2 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 0.5min
+  shops:
+    - http://www.lupicia.fr/
