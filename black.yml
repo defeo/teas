@@ -91,3 +91,17 @@ Yunnan Bouton d'or:
   quantity: 20g/L
   shops:
     - http://www.larouteduthe.com/thes-vert-primeur-de-chine/492-bouton-dor-.html
+
+Yunnan Couronne d'or bio:
+  type: Yunnan, tips and buds
+  provenance: Yunnan
+  tasting: >-
+    High quality Yunnan from tips and buds. Orange-brown
+    liquor. Fruity taste, astonishingly close to high grade
+    darjeeling, but less astringent. Good for 3-4 infusions.
+  rating: 3/5
+  temperature: 85°
+  infusion: 4-5min
+  quantity: 20g/L
+  shops:
+    - http://www.larouteduthe.com/
