@@ -118,3 +118,17 @@ Hoji-cha Atago:
   infusion: 0.5min
   shops:
     - http://www.lupicia.fr/
+
+Jade needle bio:
+  type: Yunnan green tea
+  provenance: China, Yunnan, Wuliang mountain
+  tasting: >-
+    Chinese green tea, rolled, dried and grilled, first flush. Deep
+    yellow liquor, sweet, mildly grassy, faint milky notes. Good for
+    3-4 infusions.
+  rating: 4/5
+  temperature: 85°
+  infusion: 1min
+  quantity: 20g/L
+  shops:
+    - http://www.larouteduthe.com/thes-verts-en-vrac/675-TAI-PING-HOU-KUI.html
