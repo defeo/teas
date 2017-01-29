@@ -26,3 +26,16 @@ Wenshan:
   shops:
     - http://en.lupicia.fr/s/29787_178146_wenshan
     - http://www.lupicia.fr/s/29787_178146_the-oolong-de-taiwan-wenshan
+
+Formosa:
+  type: Oolong
+  provenance: Taiwan
+  tasting: >-
+    Pale yellow liquor. Classic oolong, refreshing taste, faint scent
+    of grass and flowers. Good for 2 infusions.
+  rating: 3/5
+  infusion: 1-1.5min
+  temperature: 100°
+  quantity: 40g/L
+  shops:
+    - http://www.lupicia.fr/s/29787_178081_the-oolong-de-taiwan-formosa
