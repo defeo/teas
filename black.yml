@@ -105,3 +105,17 @@ Yunnan Couronne d'or bio:
   quantity: 20g/L
   shops:
     - http://www.larouteduthe.com/
+
+Lu Yé Yon Hong:
+  type: Unknown
+  provenance: Chine
+  tasting: >-
+    Fermented black tea. Deep orange-brown liquor. Earthy notes,
+    oxidated, fait scent of manure. Long taste, with honey
+    aftertaste. No astringency. Good for 3-4 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 3-6min
+  quantity: 10g/L
+  shops:
+    - La Maison des 3 thés
