@@ -119,3 +119,30 @@ Lu Yé Yon Hong:
   quantity: 10g/L
   shops:
     - La Maison des 3 thés
+
+Su Hong Mao Jian:
+  type: Chinese black tea, tips
+  provenance: China
+  tasting: >-
+    Black tea from hairy tips. Orange-brown liquor. Refreshing fruity
+    flavour, reminiscent of darjeeling. Very long taste, leaves the
+    mouth fresh. No astringency. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 95°
+  infusion: 3-6min
+  quantity: 10g/L
+  shops:
+    - http://www.maisondestroisthes.com/
+
+Ceylan Kenilworth:
+  type: Ceylan orange Pekoe
+  provenance: Sri Lanka
+  tasting: >-
+    Full leaves orange pekoe. Bright orange liquor. Refreshing taste
+    with little astringency. Good for 2-3 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 4min
+  quantity: 26g/L
+  shops:
+    - http://www.teathetcha.com/
