@@ -132,3 +132,31 @@ Jade needle bio:
   quantity: 20g/L
   shops:
     - http://www.larouteduthe.com/thes-verts-en-vrac/675-TAI-PING-HOU-KUI.html
+
+Yunnan Colline argentée:
+  type: Yunnan green tea
+  provenance: China, Yunnan
+  tasting: >-
+    Chinese green tea from the Yunnan region. Deep orange
+    liquor. Grassy, surprisingly similar to a Sencha. Rich palette
+    with buttery notes. Bitterness in the finish. Very long taste.
+    Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 80°
+  infusion: 3-4min
+  quantity: 26g/L
+  shops:
+    - http://www.teathetcha.com/
+
+Hojicha Tamayura:
+  type: Hojicha, Roasted green tea
+  provenance: Japan, Fukuoka
+  tasting: >-
+    Classic hoji-cha, midly roasted, red liquor with green
+    gleams. Good for 2-3 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 0.5min
+  quantity: 20g/L
+  shops:
+    - http://www.teathetcha.com/
