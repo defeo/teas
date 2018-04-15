@@ -146,3 +146,18 @@ Ceylan Kenilworth:
   quantity: 26g/L
   shops:
     - http://www.teathetcha.com/
+
+Qi Hong Gong Fu:
+  type: Chinese black tea, tips
+  provenance: China
+  tasting: >-
+    Black tea from tips. Orange-brown liquor. Toasted cocoa scent,
+    refreshing persistent taste, flowery finale similar to
+    darjeeling. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 100°
+  infusion: 3-5min
+  quantity: 10g/L
+  shops:
+    - http://www.maisondestroisthes.com/
+  
