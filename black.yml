@@ -174,3 +174,17 @@ MakaiBari Bio SFTGFOP:
   quantity: 20g/L
   shops:
     - http://www.larouteduthe.com/
+
+Sourcils d'or bio:
+  type: Yunnan, rolled tips
+  provenance: Yunnan, China
+  tasting: >-
+    High quality Yunnan tea from rolled golden tips. Red-brown liquor,
+    earthy taste, with honey notes. No astringency. Good for 2-3
+    infusions.
+  rating: 4/5
+  temperature: 90°
+  infusion: 3-4min
+  quantity: 20g/L
+  shops:
+    - https://larouteduthe.com/fr/types-de-the/715-yunnan-pointe-dor.html
