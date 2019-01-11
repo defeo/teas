@@ -160,3 +160,18 @@ Hojicha Tamayura:
   quantity: 20g/L
   shops:
     - http://www.teathetcha.com/
+
+Sencha Shiraore:
+  type: Sencha
+  provenance: Japan
+  tasting: >-
+    High quality sencha tea. Golden green, slightly opaque,
+    liquor. Refreshing taste, very mild grassy notes for a
+    sencha. Good for 3 infusions.
+  rating: 4/5
+  temperature: 70°
+  infusion: 1min
+  quantity: 10g/L
+  shops:
+    - La maison des trois thés
+
