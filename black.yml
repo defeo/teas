@@ -188,3 +188,17 @@ Sourcils d'or bio:
   quantity: 20g/L
   shops:
     - https://larouteduthe.com/fr/types-de-the/715-yunnan-pointe-dor.html
+
+Kotagiri Frost:
+  type: Kotagiri black tea
+  provenance: Nilgiri, India
+  tasting: >-
+    High quality winter black tea from southern indian mountains. Pale
+    red liquor, dried flower scent, fresh, fruity mouth, could easily
+    be taken for a Darjeeling. Little astringency. Good for 2
+    infusions.
+  ratng: 4/5
+  temperature: 85°
+  infusion: 4min
+  quantity: 20g/L
+  shops: Le palais des thés
