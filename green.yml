@@ -175,3 +175,16 @@ Sencha Shiraore:
   shops:
     - La maison des trois thés
 
+Sakura Vert:
+  type: Green tea and Sakura mix
+  provenance: Japan
+  tasting: >-
+    Traditional Japanese green tea and salted cherry leaves
+    mix. Bright yellow liquor with green flashes. Acidic, slightly
+    salty taste, very refreshing.  Good for 2 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 2min
+  quantity: 20g/L
+  shops:
+    - http://www.lupicia.fr/s/29786_300950_sakura-vert
