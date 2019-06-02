@@ -188,3 +188,17 @@ Sakura Vert:
   quantity: 20g/L
   shops:
     - http://www.lupicia.fr/s/29786_300950_sakura-vert
+
+Sencha Aya:
+  type: Sencha
+  provenance: Japan
+  tasting: >-
+    Slowly steamed sencha. Deep green, slightly opaque liquor. Buttery
+    notes, less grassy than a traditional sencha. Good for 2-3
+    infusions.
+  rating: 3/5
+  temperature: 80°
+  infusion: 1min
+  quantity: 30g/L
+  shops:
+    - http://www.lupicia.fr/s/43697_295623_the-vert-japonais-i-sencha-aya
