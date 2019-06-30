@@ -175,7 +175,7 @@ MakaiBari Bio SFTGFOP:
   shops:
     - http://www.larouteduthe.com/
 
-Sourcils d'or bio:
+"Sourcils d'or bio":
   type: Yunnan, rolled tips
   provenance: Yunnan, China
   tasting: >-
@@ -202,3 +202,17 @@ Kotagiri Frost:
   infusion: 4min
   quantity: 20g/L
   shops: Le palais des thés
+
+Kunko Wakocha:
+  type: Smoked black tea
+  provenance: Shizuoka, Japan
+  tasting: >-
+    Artesan smoked black tea from Japan, by Sensei Hiroki
+    Matusmoto. Smoked in whisky barrels. Orange-red liquor, sweet
+    taste, no astringency. Good for 2 infusions.
+  ratng: 4/5
+  temperature: 95°
+  infusion: 4min
+  quantity: 15g/L
+  shops: 
+    - http://www.lupicia.fr/s/29785_263606_the-noir-fume-japon-i-kunko-wakocha
