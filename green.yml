@@ -202,3 +202,19 @@ Sencha Aya:
   quantity: 30g/L
   shops:
     - http://www.lupicia.fr/s/43697_295623_the-vert-japonais-i-sencha-aya
+
+
+Sencha Yakushima 2020:
+  type: Sencha
+  provenance: Japan, Yakushima
+  millesime: 2020
+  tasting: >-
+      High grade Sencha from Yukushima island. Green liquor with
+      golden reflections. Faint milky scent. Sweet, slightly grassy,
+      little astringency in the end. Good for 3 infusions.
+  rating: 3/5
+  temperature: 80°
+  infusion: 1min
+  quantity: 20g/L
+  shops:
+    - https://www.lupicia.fr/s/33862_226109_the-vert-primeur-sencha-yakushima-japon
