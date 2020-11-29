@@ -216,3 +216,18 @@ Kunko Wakocha:
   quantity: 15g/L
   shops: 
     - http://www.lupicia.fr/s/29785_263606_the-noir-fume-japon-i-kunko-wakocha
+
+Ceylan Nuwara Eliya
+  type: Ceylan blend
+  provenance: Sri Lanka, Nuwara Eliya mountains
+  tasting: >-
+    Blended Ceylan tea from high altitude plantations. Deep red
+    liquor, verging on the ruby, green reflections. Fruity scent,
+    refreshing aroma, close to a Darjeeling. Very easy to oversteep,
+    quickly looses in strength after opening. Good for 1-2 infusions.
+  rating: 4/5
+  temperature: 95°
+  infusion: 1.45min
+  quantity: 16g/L
+  shops:
+    - https://www.lupicia.fr/s/29785_178137_the-noir-sri-lanka-ceylan-nuwara-eliya
