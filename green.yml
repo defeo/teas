@@ -218,3 +218,18 @@ Sencha Yakushima 2020:
   quantity: 20g/L
   shops:
     - https://www.lupicia.fr/s/33862_226109_the-vert-primeur-sencha-yakushima-japon
+
+Sencha Yamato:
+  type: Sencha
+  Provenance: Japan, Shizuoka
+  tasting: >-
+    Classic Sencha tea from Shizuoka region. Golden liquor, smooth and
+    sweet, little grassy notes, no bitternes. A classic sencha that
+    does never disappoint, and a steal at Schwarzenbach's price. Good
+    for 2-3 infusions.
+  rating: 3/5
+  temperature: 75°
+  infusion: 2min
+  quantity: 20g/L
+  shots:
+    - https://www.schwarzenbach.ch/tee/gruentee/japan-gruentee/japan-gruntee-sencha-yamato.html
