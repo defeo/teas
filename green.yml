@@ -233,3 +233,18 @@ Sencha Yamato:
   quantity: 20g/L
   shots:
     - https://www.schwarzenbach.ch/tee/gruentee/japan-gruentee/japan-gruntee-sencha-yamato.html
+
+Bancha Superior bio:
+  type: Bancha
+  Provenance: Japan, Shizuoka
+  tasting: >-
+    High grade Bancha tea from Shizuoka region. Cloudy green liquor,
+    faint grassy scent. Straight in the mouth, with a bit of
+    astringency, between a Sencha and a Chinese green tea. Good
+    quality for the price. Good for 3 infusions.
+  rating: 3/5
+  temperature: 70°
+  infusion: 2min
+  quantity: 20g/L
+  shots:
+    - https://www.schwarzenbach.ch/tee/gruentee/japan-gruentee/japan-gruntee-bancha-superior.html
