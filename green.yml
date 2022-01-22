@@ -221,7 +221,7 @@ Sencha Yakushima 2020:
 
 Sencha Yamato:
   type: Sencha
-  Provenance: Japan, Shizuoka
+  provenance: Japan, Shizuoka
   tasting: >-
     Classic Sencha tea from Shizuoka region. Golden liquor, smooth and
     sweet, little grassy notes, no bitternes. A classic sencha that
@@ -231,12 +231,12 @@ Sencha Yamato:
   temperature: 75°
   infusion: 2min
   quantity: 20g/L
-  shots:
+  shops:
     - https://www.schwarzenbach.ch/tee/gruentee/japan-gruentee/japan-gruntee-sencha-yamato.html
 
 Bancha Superior bio:
   type: Bancha
-  Provenance: Japan, Shizuoka
+  provenance: Japan, Shizuoka
   tasting: >-
     High grade Bancha tea from Shizuoka region. Cloudy green liquor,
     faint grassy scent. Straight in the mouth, with a bit of
@@ -246,5 +246,34 @@ Bancha Superior bio:
   temperature: 70°
   infusion: 2min
   quantity: 20g/L
-  shots:
+  shops:
     - https://www.schwarzenbach.ch/tee/gruentee/japan-gruentee/japan-gruntee-bancha-superior.html
+
+Kukicha bio:
+  type: Kukicha (stems and tips)
+  provenance: Japan, 
+  tasting: >-
+    Mix of high grade stems and sencha tips. Golden liquor, sweet with
+    a milky note. No astringency, less grassy than most
+    Senchas. Good for 3-4 infusions.
+  rating: 4/5
+  temperature: 75°
+  infusion: 2min
+  quantity: 20g/L
+  shops:
+    - https://www.teeundtee.ch/produkt-seite/kukicha-japan
+  
+Mao Feng Bio:
+  type: Mao feng
+  provenance: Zhejiang province, China
+  tasting: >-
+    Green tea from the Jiu Long Shan region. Thin twisted leaves with
+    faint milky scent. Golden liquor. Taste mellow and straight,
+    refreshing, no astringency. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 75°
+  infusion: 2min
+  quantity: 20g/L
+  shops:
+    - https://www.teeundtee.ch/produkt-seite/mao-feng
+

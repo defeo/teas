@@ -261,3 +261,18 @@ Jungpana bio 1st flush FTGFOP1 DJ6:
   quantity: 23g/L
   shops:
     - https://www.schwarzenbach.ch/tee/schwarztee/indien-nepal-sikkim-schwarztee/darjeeling-schwarztee-1st-flush-jungpana-bio.html
+
+Rwanda Ruckeri BIO:
+  type: Black tea
+  provenance: Rwanda
+  tasting: >-
+    Good black tea from Rwanda. Thin full leaves with chocolate
+    scent. Deep ruby liquor with green reflections. First infusion is
+    very strong, better mix 2 infusions. Woody aromas with a bit of
+    astringency and a refreshing end. Good for 2-3 infusions.
+  rating: 2/5
+  temperature: 100°
+  infusion: 3min
+  quantity: 30g/L
+  shops:
+    - https://www.teeundtee.ch/produkt-seite/ruanda-rukeri

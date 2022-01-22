@@ -1,6 +1,6 @@
 Four Seasons Mingjian:
   type: Spring oolong, Sijichun (four seasons)
-  provenance: Taiwan, Nantou county, Ming Jian
+  provenance: Nantou county, Ming Jian, Taiwan
   altitude: 500m
   tasting: >-
     Leaves with mild milky scent. Golden liquor with fresh taste, very mild fermentation
@@ -15,7 +15,7 @@ Four Seasons Mingjian:
 
 Wenshan:
   type: Oolong, low fermentaion
-  provenance: Taiwan, Xinbéi
+  provenance: Xinbéi, Taiwan
   tasting: >-
     Golden liquor. Fresh scent of flowers, mild taste, no astringency.
     Good for 2-3 infusions.
@@ -39,3 +39,17 @@ Formosa:
   quantity: 40g/L
   shops:
     - http://www.lupicia.fr/s/29787_178081_the-oolong-de-taiwan-formosa
+
+Ti Kuan Yin:
+  type: Oolong
+  provenance: Fujian, China
+  tasting: >-
+    Late harvest oolong from continental China. Classic oolong,
+    Yellow-amber liquor, faint scent. Sous-bois aromas, full bodied,
+    with a hint of astringency. Good for 3-4 infusions.
+  rating: 3/5
+  infusion: 3min
+  temperature: 85°
+  quantity: 30g/L
+  shops:
+    - https://www.teeundtee.ch/produkt-seite/ti-kuan-yin
