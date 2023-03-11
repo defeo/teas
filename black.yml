@@ -277,7 +277,6 @@ Rwanda Ruckeri BIO:
   shops:
     - https://www.teeundtee.ch/produkt-seite/ruanda-rukeri
 
-
 Seeyok FTGFOP1 2021-DJ6:
   type: Darjeeling FTGFOP1, spring flush 2021
   provenance: India, Seeyok
@@ -292,3 +291,18 @@ Seeyok FTGFOP1 2021-DJ6:
   quantity: 30g/L
   shops:
     - https://www.lupicia.fr/s/29785_thes-noirs
+    
+Kakegawa:
+  type: Ichibancha Yabukita
+  provenance: Kakegawa, Shizuoka province, Japan
+  tasting: >-
+    Ichibancha tips of Yakubita variety, slightly torrefied black tea
+    from a region and variety accustomed to sencha. Deep ruby robe,
+    orange reflections. Fruity scent, fresh palate, reminiscent of
+    Darjeeling. Good for 2-3 infusions, do not overdose / oversteep.
+  rating: 4/5
+  temperature: 95°
+  infusion: 2min
+  quantity: 20g/L
+  shops:
+    - https://www.lupicia.fr/s/29785_351033_kakegawa
