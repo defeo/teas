@@ -306,3 +306,17 @@ Kakegawa:
   quantity: 20g/L
   shops:
     - https://www.lupicia.fr/s/29785_351033_kakegawa
+
+Assam Royal, Tippy 1st Flush:
+  type: Assam Royal, Tippy 1st Flush
+  provenance:
+  tasting: >-
+    High grade Assam spring tea. Deep red robe, chocolate scent,
+    intense flavour, toasted notes. No bitterness, very elegant,
+    stands its ground to many Ceylon teas. Good for 2 infusions.
+  rating: 4/5
+  temperature: 90°
+  infusion: 3min
+  quantity: 26g/L
+  shops:
+    - https://tekoe.com/product/assam-1st-flush-royal-tippy-2022
