@@ -294,3 +294,17 @@ Gyokuro Katsura:
   quantity: 50g/L
   shops:
     - https://www.lupicia.fr/s/29786_178148_the-vert-japonais-gyokuro-katsura
+
+Kamairicha Hyuga:
+  type: Kamairicha
+  provenance: Japan, Miyazaki prefecture
+  tasting: >-
+    Mildly roasted green tea, kama-iri method.  Straw to deep yellow
+    liquor, strong grassy acidic scent. Refreshing taste, grassy,
+    faintly alkaline and bitter, long. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 85°
+  infusion: 1min
+  quantity: 25g/L
+  shops:
+    - https://www.lupicia.fr/s/29786_178150_the-vert-japonais-kama-iri-cha-hyuga
