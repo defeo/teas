@@ -53,3 +53,17 @@ Ti Kuan Yin:
   quantity: 30g/L
   shops:
     - https://www.teeundtee.ch/produkt-seite/ti-kuan-yin
+
+
+Si Ji Chun:
+  type: Oolong
+  provenance: Taiwan
+  tasting: >-
+    Golden yellow liquor. White flowers. No
+    astringency, refreshing. Good for 2-3 infusions.
+  rating: 3/5
+  infusion: 5min
+  temperature: 95°
+  quantity: 20g/L
+  shops:
+    - Maison des trois thés
