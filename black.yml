@@ -309,7 +309,7 @@ Kakegawa:
 
 Assam Royal, Tippy 1st Flush:
   type: Assam Royal, Tippy 1st Flush
-  provenance:
+  provenance: India
   tasting: >-
     High grade Assam spring tea. Deep red robe, chocolate scent,
     intense flavour, toasted notes. No bitterness, very elegant,
@@ -320,3 +320,29 @@ Assam Royal, Tippy 1st Flush:
   quantity: 26g/L
   shops:
     - https://tekoe.com/product/assam-1st-flush-royal-tippy-2022
+
+Diksam FTGFOP1:
+  type: Assam, FTGFOP1
+  provenance: India
+  tasting: >-
+    Full leaf Assam team. Good for 2 infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 3min
+  quantity: 20g/L
+  shops:
+    - https://www.lupicia.fr/s/29785_171969_the-noir-inde-diksam-ftgfop1
+
+Gokase Hassaku Flower Tea:
+  type: Black Tea
+  provenance: Miyazaki, Japan
+  tasting: >-
+    Black tea aromatised with Hassaku flowers. Flowery scent, ruby
+    color, straight and fresh flavor, no bitternes. Good for 1-2
+    infusions.
+  rating: 3/5
+  temperature: 95°
+  infusion: 3min
+  quantity: 20g/L
+  shops:
+    - https://www.lupicia.fr/
