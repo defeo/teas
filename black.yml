@@ -346,3 +346,17 @@ Gokase Hassaku Flower Tea:
   quantity: 20g/L
   shops:
     - https://www.lupicia.fr/
+
+Grand Cru Assam Single Malt:
+  type: Black Tea
+  provenance: Assam, India
+    tasting: >-
+      High grade Assam from low-yield 100yo tea bushes. Amber color,
+      fruity scent. Sweet liquor, malted notes, tobacco finish. No
+      astringency. Good for 2-3 infusions.
+  rating: 5/5
+  temperature: 95°
+  infusion: 3min
+  quantity: 20g/L
+  shops:
+    - https://sanchatea.com/products/assam-single-malt-tea
