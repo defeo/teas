@@ -9,3 +9,17 @@ Sobacha Hida no Homaré:
   quantity: 26g/L
   shops:
     - http://www.jugetsudo.fr/infusion-aux-graines-de-sarrasin-hida-no-homare.html
+
+Super White:
+  type: White tea
+  provenance: Darjeeling, India
+  tasting: >-
+    First harvest "silver needle" Darjeeling white tea. Pink-orange
+    color. Subtle woody scent. Light and refreshing, no astringency,
+    mild tobacco aftertaste. Good for 2-3 infusions.
+  rating: 3/5
+  temperature: 90°
+  infusion: 3min
+  quantity: 20g/L
+  shops:
+    - https://sanchatea.com/collections/white-tea/products/super-white-tea-silver-needles-tea
