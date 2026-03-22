@@ -308,3 +308,17 @@ Kamairicha Hyuga:
   quantity: 25g/L
   shops:
     - https://www.lupicia.fr/s/29786_178150_the-vert-japonais-kama-iri-cha-hyuga
+
+Kabusecha Gion Tsujiri:
+  type: Kabusecha
+  provenance: Japan, Kyoto prefecture, Uji region
+  tasting: >-
+    Shade-covered green tea from Uji prefecture. Gold-green color.
+    Faint green sap scent.  Mellow liquor, straight taste with mild
+    herbaceous overtones. Good for 2-3 infusions.
+  rating: 4/5
+  temperature: 75°
+  infusion: 1.5min
+  quantity: 30g/L
+  shops:
+    - https://www.giontsujiri.co.jp/
