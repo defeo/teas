@@ -360,3 +360,18 @@ Grand Cru Assam Single Malt:
   quantity: 20g/L
   shops:
     - https://sanchatea.com/products/assam-single-malt-tea
+
+Nilgiri Grand Cru:
+  type: Black Tea
+  provenance: Nilgiri, India
+    tasting: >-
+      High grade Nilgiri tea, winter flush. Amber color. Tobacco
+      scent. Softly sweet and astringent liquor, liquorice notes, long
+      and refereshing.  Good for 2 infusions.
+  rating: 4/5
+  temperature: 95°
+  infusion: 3min
+  quantity: 20g/L
+  shops:
+    - https://sanchatea.com/products/grand-cru-nilgiri-winter-flush-tea
+
